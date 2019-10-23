@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Patrycja Chochlińska - graphic designer
+    Szymon Stach - developer
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Webpack, Babel, Sass
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
