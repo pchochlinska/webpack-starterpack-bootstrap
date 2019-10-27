@@ -1,3 +1,23 @@
 @import "vendor/normalize/import-now";
 @import "~bootstrap/scss/bootstrap";
 
+@import "abstract/variables";
+@import "abstract/mixins";
+@import "abstract/utilities";
+
+@import "base/typography";
+
+@import "components/images";
+@import "components/buttons";
+@import "components/lists";
+
+
+/*
+  # This file structure is only the basis.
+    Feel free to add your components and other folders and files.
+    Don't forget to import them to main.scss
+    and that the order is important.
+ */
+
+
+
